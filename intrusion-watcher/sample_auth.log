@@ -1,0 +1,65 @@
+2026-08-09T08:00:03.000+00:00 ip-172-31-28-55 sshd-session[4643]: Failed password for invalid user admin from 45.203.12.44 port 54842 ssh2
+2026-08-09T08:00:08.000+00:00 ip-172-31-28-55 sshd-session[2980]: Failed password for invalid user test from 45.203.12.44 port 51332 ssh2
+2026-08-09T08:00:10.000+00:00 ip-172-31-28-55 sshd-session[4247]: Failed password for invalid user guest from 45.203.12.44 port 54522 ssh2
+2026-08-09T08:00:17.000+00:00 ip-172-31-28-55 sshd-session[8114]: Failed password for invalid user postgres from 45.203.12.44 port 40760 ssh2
+2026-08-09T08:00:22.000+00:00 ip-172-31-28-55 sshd-session[1846]: Failed password for invalid user root from 45.203.12.44 port 47928 ssh2
+2026-08-09T08:00:28.000+00:00 ip-172-31-28-55 sshd-session[8792]: Failed password for invalid user oracle from 45.203.12.44 port 59591 ssh2
+2026-08-09T08:00:32.000+00:00 ip-172-31-28-55 sshd-session[6405]: Failed password for invalid user test from 45.203.12.44 port 52193 ssh2
+2026-08-09T08:00:36.000+00:00 ip-172-31-28-55 sshd-session[9873]: Failed password for invalid user oracle from 45.203.12.44 port 45817 ssh2
+2026-08-09T08:00:40.000+00:00 ip-172-31-28-55 sshd-session[4129]: Failed password for invalid user root from 45.203.12.44 port 42292 ssh2
+2026-08-09T08:00:43.000+00:00 ip-172-31-28-55 sshd-session[9335]: Failed password for invalid user oracle from 45.203.12.44 port 58547 ssh2
+2026-08-09T08:00:47.000+00:00 ip-172-31-28-55 sshd-session[1407]: Failed password for invalid user ubuntu from 45.203.12.44 port 58974 ssh2
+2026-08-09T08:00:52.000+00:00 ip-172-31-28-55 sshd-session[3357]: Failed password for invalid user postgres from 45.203.12.44 port 46823 ssh2
+2026-08-09T08:00:58.000+00:00 ip-172-31-28-55 sshd-session[2953]: Failed password for invalid user test from 45.203.12.44 port 43362 ssh2
+2026-08-09T08:01:05.000+00:00 ip-172-31-28-55 sshd-session[9263]: Failed password for invalid user admin from 45.203.12.44 port 46907 ssh2
+2026-08-09T08:01:08.000+00:00 ip-172-31-28-55 sshd-session[4551]: Failed password for invalid user user from 45.203.12.44 port 49821 ssh2
+2026-08-09T08:01:14.000+00:00 ip-172-31-28-55 sshd-session[8019]: Failed password for invalid user guest from 45.203.12.44 port 47970 ssh2
+2026-08-09T08:01:22.000+00:00 ip-172-31-28-55 sshd-session[3705]: Failed password for invalid user root from 45.203.12.44 port 53318 ssh2
+2026-08-09T08:01:30.000+00:00 ip-172-31-28-55 sshd-session[1543]: Failed password for invalid user guest from 45.203.12.44 port 55622 ssh2
+2026-08-09T08:01:35.000+00:00 ip-172-31-28-55 sshd-session[1384]: Failed password for invalid user guest from 45.203.12.44 port 46444 ssh2
+2026-08-09T08:01:40.000+00:00 ip-172-31-28-55 sshd-session[5808]: Failed password for invalid user oracle from 45.203.12.44 port 44575 ssh2
+2026-08-09T08:01:47.000+00:00 ip-172-31-28-55 sshd-session[1380]: Failed password for invalid user test from 45.203.12.44 port 48788 ssh2
+2026-08-09T08:01:54.000+00:00 ip-172-31-28-55 sshd-session[9731]: Failed password for invalid user root from 45.203.12.44 port 55643 ssh2
+2026-08-09T08:01:57.000+00:00 ip-172-31-28-55 sshd-session[9733]: Failed password for invalid user admin from 45.203.12.44 port 53758 ssh2
+2026-08-09T08:02:00.000+00:00 ip-172-31-28-55 sshd-session[7678]: Failed password for invalid user test from 45.203.12.44 port 56492 ssh2
+2026-08-09T08:02:03.000+00:00 ip-172-31-28-55 sshd-session[1016]: Failed password for invalid user user from 45.203.12.44 port 44128 ssh2
+2026-08-09T08:02:06.000+00:00 ip-172-31-28-55 sshd-session[7622]: Failed password for invalid user user from 45.203.12.44 port 53997 ssh2
+2026-08-09T08:02:12.000+00:00 ip-172-31-28-55 sshd-session[7478]: Failed password for invalid user admin from 45.203.12.44 port 45230 ssh2
+2026-08-09T08:02:16.000+00:00 ip-172-31-28-55 sshd-session[5689]: Failed password for invalid user postgres from 45.203.12.44 port 47485 ssh2
+2026-08-09T08:02:20.000+00:00 ip-172-31-28-55 sshd-session[6014]: Failed password for invalid user test from 45.203.12.44 port 50234 ssh2
+2026-08-09T08:02:22.000+00:00 ip-172-31-28-55 sshd-session[7721]: Failed password for invalid user postgres from 45.203.12.44 port 58849 ssh2
+2026-08-09T08:02:25.000+00:00 ip-172-31-28-55 sshd-session[1804]: Failed password for invalid user test from 45.203.12.44 port 40143 ssh2
+2026-08-09T08:02:32.000+00:00 ip-172-31-28-55 sshd-session[5082]: Failed password for invalid user user from 45.203.12.44 port 56756 ssh2
+2026-08-09T08:02:37.000+00:00 ip-172-31-28-55 sshd-session[8767]: Failed password for invalid user guest from 45.203.12.44 port 43230 ssh2
+2026-08-09T08:02:40.000+00:00 ip-172-31-28-55 sshd-session[5412]: Failed password for invalid user guest from 45.203.12.44 port 49724 ssh2
+2026-08-09T08:02:44.000+00:00 ip-172-31-28-55 sshd-session[5441]: Failed password for invalid user postgres from 45.203.12.44 port 43226 ssh2
+2026-08-09T08:02:51.000+00:00 ip-172-31-28-55 sshd-session[2947]: Failed password for invalid user user from 45.203.12.44 port 40539 ssh2
+2026-08-09T08:02:59.000+00:00 ip-172-31-28-55 sshd-session[4725]: Failed password for invalid user root from 45.203.12.44 port 57806 ssh2
+2026-08-09T08:03:03.000+00:00 ip-172-31-28-55 sshd-session[3411]: Failed password for invalid user guest from 45.203.12.44 port 41186 ssh2
+2026-08-09T08:03:06.000+00:00 ip-172-31-28-55 sshd-session[5487]: Failed password for invalid user postgres from 45.203.12.44 port 58103 ssh2
+2026-08-09T08:03:09.000+00:00 ip-172-31-28-55 sshd-session[1849]: Failed password for invalid user user from 45.203.12.44 port 42756 ssh2
+2026-08-09T08:03:13.000+00:00 ip-172-31-28-55 sshd-session[3867]: Failed password for invalid user oracle from 45.203.12.44 port 53138 ssh2
+2026-08-09T08:03:21.000+00:00 ip-172-31-28-55 sshd-session[4243]: Failed password for invalid user oracle from 45.203.12.44 port 46893 ssh2
+2026-08-09T08:03:27.000+00:00 ip-172-31-28-55 sshd-session[1466]: Failed password for invalid user ubuntu from 45.203.12.44 port 40486 ssh2
+2026-08-09T08:03:32.000+00:00 ip-172-31-28-55 sshd-session[2596]: Failed password for invalid user ubuntu from 45.203.12.44 port 44598 ssh2
+2026-08-09T08:03:37.000+00:00 ip-172-31-28-55 sshd-session[4025]: Failed password for invalid user guest from 45.203.12.44 port 47415 ssh2
+2026-08-09T08:08:34.000+00:00 ip-172-31-28-55 sshd-session[9464]: Failed password for invalid user guest from 103.87.19.201 port 53058 ssh2
+2026-08-09T08:09:56.000+00:00 ip-172-31-28-55 sshd-session[7661]: Failed password for ubuntu from 103.87.19.201 port 50377 ssh2
+2026-08-09T08:14:05.000+00:00 ip-172-31-28-55 sshd-session[1298]: Failed password for invalid user oracle from 103.87.19.201 port 47599 ssh2
+2026-08-09T08:15:37.000+00:00 ip-172-31-28-55 sshd-session[3491]: Failed password for invalid user root from 103.87.19.201 port 53249 ssh2
+2026-08-09T08:17:50.000+00:00 ip-172-31-28-55 sshd-session[8335]: Failed password for ubuntu from 185.220.101.5 port 51855 ssh2
+2026-08-09T08:19:18.000+00:00 ip-172-31-28-55 sshd-session[3732]: Failed password for invalid user user from 185.220.101.5 port 43251 ssh2
+2026-08-09T08:23:06.000+00:00 ip-172-31-28-55 sshd-session[9108]: Failed password for invalid user guest from 185.220.101.5 port 45554 ssh2
+2026-08-09T08:23:49.000+00:00 ip-172-31-28-55 sshd-session[9726]: Failed password for invalid user oracle from 185.220.101.5 port 56427 ssh2
+2026-08-09T08:25:59.000+00:00 ip-172-31-28-55 sshd-session[7311]: Failed password for invalid user oracle from 185.220.101.5 port 57892 ssh2
+2026-08-09T08:27:57.000+00:00 ip-172-31-28-55 sshd-session[1104]: Failed password for invalid user user from 185.220.101.5 port 45695 ssh2
+2026-08-09T08:30:20.000+00:00 ip-172-31-28-55 sshd-session[1693]: Failed password for ubuntu from 192.99.14.77 port 50708 ssh2
+2026-08-09T08:31:48.000+00:00 ip-172-31-28-55 sshd-session[2213]: Failed password for invalid user user from 192.99.14.77 port 59263 ssh2
+2026-08-09T08:32:44.000+00:00 ip-172-31-28-55 sshd-session[3207]: Failed password for ubuntu from 192.99.14.77 port 54965 ssh2
+2026-08-09T08:33:34.000+00:00 ip-172-31-28-55 sshd-session[5741]: Failed password for ubuntu from 192.99.14.77 port 41099 ssh2
+2026-08-09T08:38:02.000+00:00 ip-172-31-28-55 sshd-session[9556]: Accepted publickey for ubuntu from 152.59.51.229 port 43215 ssh2: RSA SHA256:mK2OWThxTLjTggK2ty
+2026-08-09T08:45:56.000+00:00 ip-172-31-28-55 sshd-session[9320]: Accepted publickey for ubuntu from 152.59.51.229 port 42411 ssh2: RSA SHA256:mK2OWThxTLjTggK2ty
+2026-08-09T08:58:39.000+00:00 ip-172-31-28-55 sshd-session[6741]: Accepted publickey for ubuntu from 152.59.51.229 port 48308 ssh2: RSA SHA256:mK2OWThxTLjTggK2ty
+2026-08-09T09:12:38.000+00:00 ip-172-31-28-55 sshd-session[9771]: Accepted publickey for ubuntu from 152.59.51.229 port 54688 ssh2: RSA SHA256:mK2OWThxTLjTggK2ty
+2026-08-09T09:26:41.000+00:00 ip-172-31-28-55 sshd-session[5083]: Accepted publickey for ubuntu from 152.59.51.229 port 52700 ssh2: RSA SHA256:mK2OWThxTLjTggK2ty
+2026-08-09T09:30:23.000+00:00 ip-172-31-28-55 sshd-session[1060]: Accepted publickey for ubuntu from 152.59.51.229 port 44402 ssh2: RSA SHA256:mK2OWThxTLjTggK2ty
