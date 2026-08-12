@@ -1,0 +1,34 @@
+services:
+  app:
+    build: .
+    container_name: task-app-2tier
+    ports:
+      - "5000:5000"
+    environment:
+      - DB_HOST=db
+      - DB_NAME=tasksdb
+      - DB_USER=postgres
+      - DB_PASS=postgres
+    depends_on:
+      - db
+    networks:
+      - app-network
+
+  db:
+    image: postgres:15
+    container_name: task-db-2tier
+    environment:
+      - POSTGRES_DB=tasksdb
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    networks:
+      - app-network
+
+volumes:
+  db-data:
+
+networks:
+  app-network:
+    driver: bridge
